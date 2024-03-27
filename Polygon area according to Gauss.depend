@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711565206 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\polygonfläche nach gauß\polygon area according to gauss\main.c
+	<stdio.h>
+	<stdlib.h>
+
